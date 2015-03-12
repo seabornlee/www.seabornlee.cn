@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title> Seaborn Lee - 相册 - 2013-06-29 17.41.21</title>
+
+
+		<!-- http://t.co/dKP3o1e -->
+		<meta name="HandheldFriendly" content="True">
+		<meta name="MobileOptimized" content="320">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="keywords" content="Thoughtworks程序员,bjdp,thoughtworks,读书笔记,个人成长,敏捷个人,敏捷,scrum gathering" >
+		<meta name="description" content="一个热爱编程和生活的程序员，在此记录反思生活，分享读书笔记，与你一起成长">
+
+		<link rel='alternate' type='application/rss+xml' title='atom 1.0' href='/feed' />
+
+		<link href="/favicon.png" rel="shortcut icon">
+		<link href="/template/css/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+		<link href="/template/css/style.css" rel="stylesheet" type="text/css">
+		<link href="/template/css/codehighlight.css" rel="stylesheet" type="text/css">
+		<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+		<script src="/template/js/jquery.min.js"></script>
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700' rel='stylesheet' type='text/css'>
+		<!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+		<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+		<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+		<link href="http://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+
+
+	</head>
+	<body>
+
+		<div class="container">
+			<div class="left-col">
+				<div class="intrude-less">
+					<header id="header" class="inner">
+					<div class="profilepic">  
+						
+						<img src='/avatar.png' alt='Profile Picture' style='width: 160px;' />
+						
+						</div>
+						
+						<h1><a href="/">Seaborn Lee</a></h1>
+						
+						
+						<p class="subtitle">ThoughtWorks咨(chéng)询(xù)师(yuán)</p>
+						
+						<nav id="main-nav">
+						<ul class="main-navigation">
+							<li><a href="/">首页</a></li>
+							
+							    
+							<li>
+							<a href="/categories">分类</a>
+							</li>
+							
+							<li><a href="/archive">存档</a></li>
+							
+							<li><a href="/tags">标签</a></li>
+							
+							
+
+							
+							<li><a href="/folder/">相册</a></li>
+							
+
+							
+
+							
+							<li><a href="/links.md">链接</a></li>
+							
+
+							
+							<li><a href="/about.md">关于</a></li>
+							
+
+
+						</ul>
+						</nav>
+						<nav id="sub-nav">
+						<div class="social">
+							
+							
+							
+							
+							<a class="github" href="http://github.com/hkliya" title="GitHub">GitHub</a>
+							
+							
+							<a class="linkedin" href="http://www.linkedin.com/pub/seaborn-lee/38/389/992" title="Linkedin">Linkedin</a>
+							
+							
+							
+							
+							
+							
+							<a class="weibo" href="http://weibo.com/youngmanhere" title="新浪微博">新浪微博</a>
+							
+							
+							
+							<a class="douban" href="http://www.douban.com/people/seabornlee/" title="豆瓣">豆瓣</a>
+							
+							
+							
+							
+						</div>
+						</nav>
+
+						<br/>
+						
+						<section>
+						<h2>关于作者</h2>
+						<p>用了几年Java，喜欢Ruby，有丰富的Web开发经验，目前工作在一个Android项目上</p>
+						</section>
+						
+
+						</br>
+						
+						<section>
+						
+						<p>我喜欢阅读、写作、运动、画画 、健身、演讲、组织社区活动、参与开源</p>
+						</section>
+						
+						</header>               
+					</div>
+				</div>  
+				
+<div class="mid-col">
+    <div class="mid-col-container">
+		<ul class="bread_nav">
+ <li><a href="/folder/">/</a></li>
+<li><a href="/folder/我的相册/">我的相册/</a></li>
+<li><a href="/folder/我的相册/scrum gathering/">scrum gathering/</a></li>
+<li>2013-06-29 17.41.21.jpg</li>
+</ul>
+		<div class="container80">
+			<div id="image">
+				<div class="info">
+					<!--<span class="date">2013-06-29 17:41</span>-->
+				</div>
+				<img src="/我的相册/scrum gathering/2013-06-29 17.41.21.jpg" />
+				<div class="connected_images">
+					
+						<a href="/file/我的相册/scrum gathering/dsc_0037.jpg" class="pre" title="点击跳到上一张">&nbsp;</a>
+					
+					
+						<a href="/file/我的相册/scrum gathering/2013-06-29 16.21.16.jpg" class="next" title="点击跳到下一张">&nbsp;</a>
+					
+				</div>
+			</div>
+			
+
+    <div id="disqus_thread" class="comments"></div>
+    <!-- Duoshuo Comment BEGIN -->
+	<div class="ds-thread"></div>
+<script type="text/javascript">
+var duoshuoQuery = {short_name:"hkliya"};
+	(function() {
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = 'http://static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0] 
+		|| document.getElementsByTagName('body')[0]).appendChild(ds);
+	})();
+	</script>
+<!-- Duoshuo Comment END -->
+
+		</div>
+    </div>
+    
+
+<footer id="footer" class="inner">
+  	<span class="credit">Powered By <a target='_blank' href="http://www.farbox.com">FarBox</a></span>
+</footer>
+
+</div>
+
+			</div>
+
+
+			<script src="/template/js/jquery.fancybox.pack.js"></script>
+			<script type="text/javascript">
+				(function($){
+				 $('.fancybox').fancybox();
+				 })(jQuery);
+			 </script> <!-- Delete or comment this line to disable Fancybox -->
+
+		 <script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Feac4662edad769a80e00c991a1fbcb9d' type='text/javascript'%3E%3C/script%3E"));
+</script></body>
+</html>

@@ -1,0 +1,46 @@
+---
+title: Seaborn Lee
+keywords: Thoughtworks程序员,bjdp,thoughtworks,读书笔记,个人成长,敏捷个人,敏捷,scrum gathering
+avatar: /_image/avatar.jpg
+cover: /_image/cover.jpg
+posts_per_page: 5
+post_content_type: markdown
+post_paragraph_indent: no
+file_path: 我的相册
+show_toc: yes
+mathjax: no
+disqus: 
+duoshuo: hkliya
+template_priority: auto
+template_inherit: yes
+template_clone_allowed: no
+autoreload: auto
+scripts_per_page: |
+    <script type="text/javascript">
+    var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fcb4739c4b63720df3c49c8a235b143c3' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+scripts_for_doc: 
+auto_image: yes
+nano: no
+comment: yes
+sync_by_3rd: no
+sync_by_3rd_public: no
+score_degree: 
+hidden_urls: 
+users: 
+domain: www.seabornlee.cn
+domains:
+- seabornlee.cn
+subtitle: ThoughtWorks咨询师
+author: 李小波
+authorinfo: 全栈工程师，技术教练，CSM，奶爸。擅长Java，JavaScript，Android，Ruby on Rails应用开发。敏捷社区推动者，曾以组织者和讲师身份参与过Agile tour，Scrum Gathering，精创周末等活动。软件匠艺推动者，热爱引导Code Retreat，Coding Dojo等活动。
+somethinstitle:
+something:工作之余喜欢阅读、写作、运动、演讲、组织社区活动、参与开源
+github: http://github.com/hkliya
+linkedin: http://www.linkedin.com/pub/seaborn-lee/38/389/992
+weibo: http://weibo.com/youngmanhere
+douban: http://www.douban.com/people/seabornlee/
+postach: http://seabornlee.postach.io/
+description: 一个热爱编程和生活的程序员，在此记录反思生活，分享读书笔记，一起成长
+---
