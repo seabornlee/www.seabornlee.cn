@@ -2,6 +2,7 @@
 date: 2013-07-25 14:28
 status: public
 title: 关于我
+toc: false
 ---
 
 <div class="github-card" data-github="hkliya" data-width="400" data-height="150" data-theme="default"></div>
