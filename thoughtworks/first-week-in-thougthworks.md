@@ -1,12 +1,15 @@
-Title:ThoughtWorks第一周所见所想
-Url:/first-week-in-thoughtworks
-Date:2013-08-25 10:17:20
-Tags:thoughtworks,总结
-Toc: no
+---
+date: 2013-08-25 10:17
+status: public
+tags: thoughtworks,总结
+title: ThoughtWorks第一周所见所想
+toc: false
+url: /first-week-in-thoughtworks
+---
 
 上周和老同事饯行吃坏了肚子，一直拉了一周，而且从北京拉到了深圳。
 刚和初次见面的同事吃完饭，一路上聊天，了解了一些公司的情况，以及客户和项目的情况。
-现在坐在酒店里，是时候总结thougthworks的这一周了。
+现在坐在酒店里，是时候总结ThoughtWorks的这一周了。
 
 ### 第一天
 第一天总是充满新鲜和刺激的，所以印象也比较深刻。
@@ -41,7 +44,7 @@ tw开放式的办公环境，一切活动都在众目睽睽之下，可能有些
 感觉这个活动性价比很高，大家起来活动一下，换换脑子，思路会更清晰，还可以增加不同项目团队之间的交流。  
 除了乒乓球，中午还有同事在活动室打扑克，我还收到过组织游泳和篮球的邮件，还有女同事们下班后在乒乓球室上瑜伽课。
 
-### openhouse
+### open house
 周五赶上一年一度的open house了，主持人说，不要再翻译成“开房”了好吗。
 去年我就参加过open house，非常轻松有趣，这次我还加入了一个track做志愿者，玩的非常开心，还得了一个外号叫“大葱”。 
 

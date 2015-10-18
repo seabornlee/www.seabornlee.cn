@@ -1,4 +1,10 @@
-###社区：
+---
+date: 2015-08-26 13:34
+status: public
+title: links
+---
+
+b###社区：
 ####[Beijing Software Craftsmanship Meetup Group](http://www.meetup.com/BeijingSoftwareCraftsmanship/)
 >Want to learn more about software craft, challenge your skills or just have fun with other like minded software folks? Then this is the place for you!
 

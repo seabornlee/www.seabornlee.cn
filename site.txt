@@ -1,6 +1,6 @@
 ---
 title: Seaborn Lee
-keywords: Thoughtworks程序员,bjdp,thoughtworks,读书笔记,个人成长,敏捷个人,敏捷,scrum gathering
+keywords: 前Thoughtworks程序员,bjdp,thoughtworks,读书笔记,个人成长,敏捷个人,敏捷,scrum gathering
 avatar: /_image/avatar.jpg
 cover: /_image/cover.jpg
 posts_per_page: 5
@@ -34,5 +34,5 @@ outside_links_allowed: yes
 score_degree: 
 hidden_urls: 
 users: 
-client_date: Mon Mar 23 2015 06:18:55 GMT+0800 (CST)
+client_date: Sat Aug 22 2015 08:25:56 GMT+0800 (CST)
 ---
